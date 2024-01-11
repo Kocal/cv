@@ -281,7 +281,7 @@ export const head: DocumentHead = {
   meta: [
     {
       name: 'description',
-      content: 'Qwik site description',
+      content: RESUME_DATA.summary,
     },
   ],
 };
