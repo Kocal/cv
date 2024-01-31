@@ -269,7 +269,7 @@ export default component$(() => {
             },
           })}
         >
-          Sources
+          Code source
         </a>
       </footer>
     </>
