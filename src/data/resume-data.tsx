@@ -62,7 +62,7 @@ export const RESUME_DATA = {
       company: 'Wamiz',
       link: 'https://wamiz.com/',
       badges: ['Télétravail'],
-      title: 'Développeur web full-stack → Lead Développeur web full-stack',
+      title: 'Développeur web full-stack → Lead Développeur web full-stack → Développeur web full-stack',
       start: new Date('2021-06-01'),
       end: new Date(),
       description:
