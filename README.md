@@ -1,6 +1,6 @@
 # CV
 
-https://hugo.alliau.me
+https://cv.hugo.alliau.me
 
 ## Working on it
 
