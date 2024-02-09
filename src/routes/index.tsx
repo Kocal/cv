@@ -141,7 +141,11 @@ export default component$(() => {
                     >
                       <DateTime date={work.start} formattingOptions={{ year: 'numeric', month: 'short' }} />
                       {' - '}
-                      <DateTime date={work.end} formattingOptions={{ year: 'numeric', month: 'short' }} />
+                      {work.end === null ? (
+                        'Présent'
+                      ) : (
+                        <DateTime date={work.end} formattingOptions={{ year: 'numeric', month: 'short' }} />
+                      )}
                     </span>
                   </header>
 

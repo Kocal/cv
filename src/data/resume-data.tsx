@@ -64,9 +64,9 @@ export const RESUME_DATA = {
       badges: ['Télétravail'],
       title: 'Développeur web full-stack → Lead Développeur web full-stack → Développeur web full-stack',
       start: new Date('2021-06-01'),
-      end: new Date(),
+      end: null,
       description:
-        "Évolution et maintenance de nos sites, mise en place d'une nouvelle stack de développement en local et CI, respect des bonnes pratiques, garantir l'ajout et la pertinence de tests automatisés, revues de code, accompagnement technique de mon équipe, monitoring via Blackfire et Datadog. Interventions dans les différentes phases de conception afin de mener les projets à bien. Diverses contributions à l'open-source (Symfony 6, Symfony UX Translator, ...)",
+        "Évolution et maintenance de nos sites, mise en place de nouvelles stacks de développement en local et CI, respect des bonnes pratiques de développement, garantir l'ajout et la pertinence de tests automatisés, revues de code, accompagnement technique de l'équipe, monitoring via Blackfire et Datadog. Interventions dans les différentes phases de conception afin de mener les projets à bien. Diverses contributions à l'open-source (Symfony 6, Symfony UX Translator, ...)",
     },
     {
       company: 'Y-proximité',
