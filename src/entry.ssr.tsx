@@ -18,6 +18,7 @@ export default function (opts: RenderToStreamOptions) {
   return renderToStream(<Root />, {
     manifest,
     ...opts,
+    base: '/cv/',
     // Use container attributes to set attributes on the html tag.
     containerAttributes: {
       lang: 'fr',
