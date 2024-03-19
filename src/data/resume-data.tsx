@@ -61,10 +61,30 @@ export const RESUME_DATA = {
     {
       company: 'Wamiz',
       link: 'https://wamiz.com/',
-      badges: ['Télétravail'],
-      title: 'Développeur web full-stack → Lead Développeur web full-stack → Développeur web full-stack',
-      start: new Date('2021-06-01'),
+      badges: ['Télétravail', 'Performance web'],
+      title: 'Senior Software Developer & Expert Technique',
+      start: new Date('2024-01-01'),
       end: null,
+      description:
+        "Un mélange de mes deux précédents postes chez Wamiz, mais avec des choses en moins mais beaucoup plus de temps dédié à de la tech. Identifier et suivi de l'évolution des performances webs, plus particulièrement l'INP (Interaction to Next Paint), critère important pour le ranking Google en mars 2024.",
+    },
+    {
+      company: 'Wamiz',
+      link: 'https://wamiz.com/',
+      badges: ['Télétravail', 'Performance web', 'Accompagnement technique'],
+      title: 'Lead Développeur web full-stack',
+      start: new Date('2021-06-01'),
+      end: new Date('2023-12-31'),
+      description:
+        "Répondre aux besoin et résoudre les soucis rencontrés par l'équipe. Accompagner techniquement l'équipe au besoin, et les faire monter en compétence. Superviser et assurer le suivi technique des projets, maîtriser l'impact du code sur les performances applicatives. Garantir une bonne couverture du code par des tests automatisés, m'assurer de la qualité du code.",
+    },
+    {
+      company: 'Wamiz',
+      link: 'https://wamiz.com/',
+      badges: ['Télétravail'],
+      title: 'Développeur web full-stack',
+      start: new Date('2021-06-01'),
+      end: new Date('2023-12-31'),
       description:
         "Évolution et maintenance de nos sites, mise en place de nouvelles stacks de développement en local et CI, respect des bonnes pratiques de développement, garantir l'ajout et la pertinence de tests automatisés, revues de code, accompagnement technique de l'équipe, monitoring via Blackfire et Datadog. Interventions dans les différentes phases de conception afin de mener les projets à bien. Diverses contributions à l'open-source (Symfony 6, Symfony UX Translator, ...)",
     },
