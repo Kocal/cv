@@ -1,3 +1,6 @@
+# Migrated to https://github.com/Kocal/hugo.alliau.me
+
+
 # CV
 
 https://cv.hugo.alliau.me
